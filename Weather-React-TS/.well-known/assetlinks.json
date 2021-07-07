@@ -2,9 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "shakhban777.weather.app",
+    "package_name": "net.oneplus.weather",
     "sha256_cert_fingerprints": [
-      "F9:A8:F7:5A:7F:0B:5D:2C:CA:E8:C2:B5:70:85:56:40:E7:09:99:55:58:CD:97:06:AF:74:B8:4E:68:96:2F:AA"
+      "AB:13:F3:80:53:CE:FE:34:8D:A8:8F:9D:44:79:29:46:7A:C7:D2:8D:7F:05:E6:32:03:F3:BF:A0:4E:85:BB:61"
     ]
   }
 }]
