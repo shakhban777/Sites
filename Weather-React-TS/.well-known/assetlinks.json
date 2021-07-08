@@ -1,8 +1,5 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", 
-  "package_name": "shakhban777.weather.app",
-               "sha256_cert_fingerprints": [
-                  "89:FE:D3:34:70:BA:4D:2D:69:F4:60:52:37:A7:4A:1B:05:25:39:26:18:7C:D3:BA:73:0D:28:32:19:60:ED:6A"
-                ] }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "shakhban777.weather.app",
+                   "sha256_cert_fingerprints": ["89:FE:D3:34:70:BA:4D:2D:69:F4:60:52:37:A7:4A:1B:05:25:39:26:18:7C:D3:BA:73:0D:28:32:19:60:ED:6A"] }
+    }]
